@@ -1,10 +1,11 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">I'm a Full-Stack Engineer with a decade of experience in the tech world. I’ve worn many hats—developer, architect, and team lead—across a diverse range of projects and technologies. My expertise spans front-end, back-end, big data, cloud services, and everything in between.</p>
+<p align="left">I'm a Full-Stack Engineer with a decade and a half of experience spanning frontend, backend, big data, testing, and DevOps. I’m passionate about crafting scalable solutions and streamlining development processes. Explore my projects here to see how I blend innovation with practical expertise. Let’s connect and collaborate!
+</p>
 
 <h2 align="left">About me</h2>
 
-<p align="left">✨ Creating bugs since [Year]<br>📚 I'm currently learning [Current Learning Topics]<br>🎯 Goals: [Your Goals]<br>🎲 Fun fact: [Fun Fact]</p>
+<p align="left">✨ Creating bugs since 2011<br>📚 I'm currently learning Flutter<br>🎯 Goals: Innovation, Scalability, Quality<br>🎲 Fun fact: I once built a fully functional arcade game from scratch, and I still have the high score!</p>
 
 <h2 align="left">Tech Stack</h2>
 
