@@ -1,10 +1,10 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">I'm a [Your Role], from [Your Location].</p>
+<p align="left">I'm a Tech-Savvy Full-Stack Engineer</p>
 
 <h2 align="left">About me</h2>
 
-<p align="left">✨ Creating bugs since [Year]<br>📚 I'm currently learning [Current Learning Topics]<br>🎯 Goals: [Your Goals]<br>🎲 Fun fact: [Fun Fact]</p>
+<p align="left">✨ Creating bugs since 2010<br>📚 I'm currently learning React Native<br>🎯 Goals: [Your Goals]<br>🎲 Fun fact: [Fun Fact]</p>
 
 <h2 align="left">Tech Stack</h2>
 
