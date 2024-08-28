@@ -1,10 +1,10 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">I'm a Tech-Savvy Full-Stack Engineer</p>
+<p align="left">I'm a [Your Role], from [Your Location].</p>
 
 <h2 align="left">About me</h2>
 
-<p align="left">✨ Creating bugs since 2010<br>📚 I'm currently learning React Native<br>🎯 Goals: [Your Goals]<br>🎲 Fun fact: [Fun Fact]</p>
+<p align="left">✨ Creating bugs since [Year]<br>📚 I'm currently learning [Current Learning Topics]<br>🎯 Goals: [Your Goals]<br>🎲 Fun fact: [Fun Fact]</p>
 
 <h2 align="left">Tech Stack</h2>
 
@@ -29,7 +29,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" height="40" alt="Vue.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/backbone/backbone-original.svg" height="40" alt="Backbone.js logo" />
   <img width="12" />
@@ -71,7 +71,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="40" alt="Hadoop logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-original.svg" height="40" alt="Kafka logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/airflow/airflow-original.svg" height="40" alt="Airflow logo" />
   <img width="12" />
@@ -111,7 +111,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="AWS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo" />
 </div>
