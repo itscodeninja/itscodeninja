@@ -5,9 +5,9 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">✨ Creating bugs since 2011<br>📚 I'm currently learning Flutter<br>🎯 Goals: Innovation, Scalability, Quality<br>🎲 Fun fact: I once built a fully functional arcade game from scratch, and I still have the high score!</p>
+<p align="left">✨ Creating bugs since 2011<br>📚 I'm currently learning Flutter<br>🎯 Goals: Innovation, scalability, quality<br>🎲 Fun fact: I once built a fully functional arcade game from scratch, and I still have the high score!</p>
 
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">I code with</h2>
 
 <div align="left">
   <!-- Languages -->
