@@ -43,7 +43,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" height="40" alt="Ruby on Rails logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="40" alt="Django logo" />
+  <img src="https://flaticons.net/icons/django/django-original.svg" height="40" alt="Django logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
   <img width="12" />
@@ -73,9 +73,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="Airflow logo" />
+  <img src="https://flaticon.com/svg/static/icons/svg/2831/2831324.svg" height="40" alt="Airflow logo" />
   <img width="12" />
-  <img src="https://flaticon.com/svg/static/icons/svg/2807/2807675.svg" height="40" alt="dbt logo" />
+  <img src="https://flaticon.com/svg/static/icons/svg/3177/3177435.svg" height="40" alt="dbt logo" />
   <img width="12" />
   <img src="https://flaticon.com/svg/static/icons/svg/2820/2820781.svg" height="40" alt="Tableau logo" />
 </div>
