@@ -75,9 +75,9 @@
   <img width="12" />
   <img src="https://flaticon.com/svg/static/icons/svg/2831/2831324.svg" height="40" alt="Airflow logo" />
   <img width="12" />
-  <img src="https://flaticon.com/svg/static/icons/svg/3177/3177435.svg" height="40" alt="dbt logo" />
-  <img width="12" />
-  <img src="https://flaticon.com/svg/static/icons/svg/2820/2820781.svg" height="40" alt="Tableau logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" height="40" alt="Apache Spark logo" />
+  <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib logo" /> 
 </div>
 
 <h3 align="left">Testing</h3>
