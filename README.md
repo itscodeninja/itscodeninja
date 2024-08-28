@@ -75,11 +75,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="Airflow logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg" height="40" alt="dbt logo" />
+  <img src="https://flaticon.com/svg/static/icons/svg/2807/2807675.svg" height="40" alt="dbt logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" height="40" alt="Snowflake logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="Tableau logo" />
+  <img src="https://flaticon.com/svg/static/icons/svg/2820/2820781.svg" height="40" alt="Tableau logo" />
 </div>
 
 <h3 align="left">Testing</h3>
