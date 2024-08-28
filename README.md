@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">I'm a [Your Role], from [Your Location].</p>
+<p align="left">I'm a Full-Stack Engineer with a decade of experience in the tech world. I’ve worn many hats—developer, architect, and team lead—across a diverse range of projects and technologies. My expertise spans front-end, back-end, big data, cloud services, and everything in between.</p>
 
 <h2 align="left">About me</h2>
 
