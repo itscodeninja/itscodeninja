@@ -97,7 +97,7 @@
 </div>
 
 <div align="left">
-<h1>My Github Contributions</h1>
+<h2>My Github Contributions</h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TalhaBruh/Github-ReadME/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/TalhaBruh/Github-ReadME/blob/output/github-contribution-grid-snake.svg" />
