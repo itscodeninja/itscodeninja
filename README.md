@@ -9,25 +9,25 @@
 <h2 align="left">I code with</h2>
 
 <div align="left">
-  <img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-  alt="TypeScript logo"
-  style="height:40px; margin-right:12px; background:white; padding:4px; border-radius:6px; vertical-align:middle;"
-/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" style="height:40px; margin-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" style="height:40px; margin-right:10px; background:#fff; border-radius:5px; padding:2px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" style="height:40px; margin-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web3js/web3js-plain.svg" alt="Web3.js" style="height:40px; margin-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" style="height:40px; margin-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="height:40px; margin-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" style="height:40px; margin-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="height:40px; margin-right:10px; background:#fff; border-radius:5px; padding:2px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="height:40px; margin-right:10px;" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pandas.svg" alt="Pandas" style="height:40px; margin-right:10px; background:#fff; border-radius:5px; padding:2px;" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/socket-dot-io.svg" alt="Socket.IO" style="height:40px; margin-right:10px;" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/celery.svg" alt="Celery" style="height:40px; margin-right:10px;" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/huggingface.svg" alt="HuggingFace" style="height:40px; margin-right:10px;" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pinecone.svg" alt="Pinecone" style="height:40px; margin-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" style="height:40px; margin-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" style="height:40px; margin-right:10px;" />
 
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-  alt="React logo"
-  style="height:40px; margin-right:12px; background:white; padding:4px; border-radius:6px; vertical-align:middle;"
-/>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
-  alt="Jest logo"
-  style="height:40px; margin-right:12px; background:white; padding:4px; border-radius:6px; vertical-align:middle;"
-/>
-
-<img
+<span style="font-weight:bold; font-family:sans-serif; font-size:16px; margin-right:10px; vertical-align:middle;">LangChain</span>
+<span style="font-weight:bold; font-family:sans-serif; font-size:16px; margin-right:10px; vertical-align:middle;">QLoRA</span>
 
 </div>
 
