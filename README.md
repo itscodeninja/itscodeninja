@@ -6,6 +6,8 @@
 
 <p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Flutter<br>🎯 Goals: Innovation, scalability, quality<br>🎲 Fun fact: I once built a fully functional arcade game from scratch, and I still have the high score!</p>
 
+<h2 align="left">I code with</h2>
+
 <div style="display: flex; align-items: center; justify-content: center; background: #282c34; padding: 10px; border-radius: 8px; width: 60px; height: 60px;">
   <svg 
     xmlns="http://www.w3.org/2000/svg" 
