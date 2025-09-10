@@ -18,27 +18,49 @@
 <div style="
   display: flex; 
   flex-wrap: wrap; 
-  flex-direction: row; 
   gap: 12px; 
-  align-items: center; 
-  max-width: 100%; 
+  align-items: center;
+  max-width: 100%;
 ">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-    alt="TypeScript"
-    style="height: 40px; background: white; padding: 4px; border-radius: 6px;"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-    alt="React"
-    style="height: 40px; background: white; padding: 4px; border-radius: 6px;"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
-    alt="Jest"
-    style="height: 40px; background: white; padding: 4px; border-radius: 6px;"
-  />
-  <!-- Add more icons as needed -->
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" style="height: 40px; background: white; padding: 4px; border-radius: 6px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" style="height: 40px; background: white; padding: 4px; border-radius: 6px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest" style="height: 40px; background: white; padding: 4px; border-radius: 6px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/web3js/web3js-plain.svg" alt="Web3.js" style="height: 40px; background: white; padding: 4px; border-radius: 6px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original-wordmark.svg" alt="Netlify" style="height: 40px; background: white; padding: 4px; border-radius: 6px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" style="height: 40px; background: white; padding: 4px; border-radius: 6px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" style="height: 40px; background: white; padding: 4px; border-radius: 6px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="Postgres" style="height: 40px; background: white; padding: 4px; border-radius: 6px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="height: 40px; background: white; padding: 4px; border-radius: 6px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" style="height: 40px; background: white; padding: 4px; border-radius: 6px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original-wordmark.svg" alt="Socket.io" style="height: 40px; background: white; padding: 4px; border-radius: 6px;" />
+  
+  <img src="https://cdn.simpleicons.org/webrtc" alt="WebRTC" style="height: 40px; background: white; padding: 4px; border-radius: 6px;" />
+  
+  <img src="https://cdn.simpleicons.org/celery" alt="Celery" style="height: 40px; background: white; padding: 4px; border-radius: 6px;" />
+  
+  <img src="https://cdn.simpleicons.org/selenium" alt="Selenium" style="height: 40px; background: white; padding: 4px; border-radius: 6px;" />
+  
+  <img src="https://cdn.simpleicons.org/langchain" alt="LangChain" style="height: 40px; background: white; padding: 4px; border-radius: 6px;" />
+  
+  <img src="https://cdn.simpleicons.org/huggingface" alt="HuggingFace" style="height: 40px; background: white; padding: 4px; border-radius: 6px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" style="height: 40px; background: white; padding: 4px; border-radius: 6px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins" style="height: 40px; background: white; padding: 4px; border-radius: 6px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" style="height: 40px; background: white; padding: 4px; border-radius: 6px;" />
+
 </div>
 
 
