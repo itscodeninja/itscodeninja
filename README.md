@@ -15,7 +15,7 @@
 
 <h2 align="left">I code with</h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; column-gap: 24px; padding: 16px; width: 100%;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; column-gap: 24px; row-gap: 0px; padding: 16px; width: 100%;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest" width="60" height="60" />
