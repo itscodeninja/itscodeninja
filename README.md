@@ -7,9 +7,8 @@
 <p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Flutter<br>🎯 Goals: Innovation, scalability, quality<br>🎲 Fun fact: I once built a fully functional arcade game from scratch, and I still have the high score!</p>
 
 <h2 align="left">I code with</h2>
-<div style="display:flex; flex-wrap: wrap; align-items: center; gap: 12px;">
-  <img 
-  src="https://docs.celeryproject.org/en/stable/_images/celery-logo-light.svg" 
+<img 
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Celery_logo.svg/120px-Celery_logo.svg.png" 
   alt="Celery logo" 
   style="height:40px; background:#fff; border-radius:5px; padding:4px;" 
 />
