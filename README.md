@@ -7,17 +7,17 @@
 <p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Flutter<br>🎯 Goals: Innovation, scalability, quality<br>🎲 Fun fact: I once built a fully functional arcade game from scratch, and I still have the high score!</p>
 
 <h2 align="left">I code with</h2>
-<span style="display: inline-block; background: #fff; border-radius: 6px; padding: 4px; height: 40px; width: 40px;">
+<span style="display:inline-block; background:#fff; border-radius:6px; padding:4px; height:40px; width:40px;">
   <svg 
     xmlns="http://www.w3.org/2000/svg" 
-    viewBox="0 0 512 512" 
+    viewBox="0 0 256 256" 
     fill="#358a2f" 
-    style="height: 32px; width: 32px; display: block; margin: auto;"
+    style="height:32px; width:32px; display:block; margin:auto;"
   >
-    <path d="M256 0C114.624 0 0 114.624 0 256s114.624 256 256 256 256-114.624 256-256S397.376 0 256 0zm0 482.304C132.352 482.304 29.696 379.648 29.696 256S132.352 29.696 256 29.696 482.304 132.352 482.304 256 379.648 482.304 256 482.304z"/>
-    <path d="M374.272 185.344c-16.128-16.128-40.832-16.128-56.96 0L256 246.656l-61.312-61.312c-16.128-16.128-40.832-16.128-56.96 0-16.128 16.128-16.128 40.832 0 56.96l61.312 61.312-61.312 61.312c-16.128 16.128-16.128 40.832 0 56.96 16.128 16.128 40.832 16.128 56.96 0l61.312-61.312 61.312 61.312c16.128 16.128 40.832 16.128 56.96 0 16.128-16.128 16.128-40.832 0-56.96l-61.312-61.312 61.312-61.312c16.128-16.128 16.128-40.832 0-56.96z"/>
+    <path d="M141.1 12.3c-34.9 0-63.3 28.3-63.3 63.3 0 18.5 8.1 35.1 21.2 46.3v40.9h42.3v-40.9c13.1-11.2 21.2-27.8 21.2-46.3 0-35-28.3-63.3-63.3-63.3zm11.9 109.6h-23.7v-6.8c0-2.3 0-8.5-8.5-8.5s-8.5 6.2-8.5 8.5v6.8H78.3v-12.8c0-10.7 8.6-19.4 19.2-19.4s19.2 8.7 19.2 19.4zm0-21.5h-23.7v-6.8c0-2.3 0-8.5-8.5-8.5s-8.5 6.2-8.5 8.5v6.8H78.3v-12.8c0-10.7 8.6-19.4 19.2-19.4s19.2 8.7 19.2 19.4zM128 256c70.7 0 128-57.3 128-128S198.7 0 128 0 0 57.3 0 128s57.3 128 128 128z"/>
   </svg>
 </span>
+
 </div>
 
 <div align="left">
