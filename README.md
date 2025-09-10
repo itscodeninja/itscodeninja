@@ -27,7 +27,7 @@
 <!-- Python -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="height:40px; margin-right:12px;" />
 
-<!-- FastAPI (using official green snake icon) -->
+<!-- FastAPI -->
 <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" style="height:40px; margin-right:12px; background:#fff; border-radius:5px; padding:4px;" />
 
 <!-- PostgreSQL -->
@@ -36,28 +36,8 @@
 <!-- MongoDB -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="height:40px; margin-right:12px;" />
 
-<!-- Pandas (using pandas official PNG) -->
-<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" style="height:40px; margin-right:12px;" />
-
-<!-- Celery (official celery logo PNG) -->
-<img src="https://docs.celeryproject.org/en/stable/_images/celery-logo-light.svg" alt="Celery" style="height:40px; margin-right:12px; background:#fff; padding:4px; border-radius:5px;" />
-
-<!-- OpenCV -->
-<img src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_with_text.png" alt="OpenCV" style="height:40px; margin-right:12px; background:#fff; padding:4px; border-radius:5px;" />
-
-<!-- LangChain (using LangSmith icon) -->
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langsmith-color.png" alt="LangChain" style="height:40px; margin-right:12px;" />
-
-<!-- HuggingFace (inline SVG) -->
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-label="Hugging Face" style="height:40px; margin-right:12px; vertical-align:middle;">
-  <title>Hugging Face</title>
-  <path fill="#FF6C37" d="M12.025 1.13c-5.77 0-10.449 4.647-10.449 10.378 0 1.112.178 2.181.503 3.185.064-.222.203-.444.416-.577a.96.96 0 0 1 .524-.15c.293 0 .584.124.84.284.278.173.48.408.71.694.226.282.458.611.684.951v-.014c.017-.324.106-.622.264-.874s.403-.487.762-.543c.3-.047.596.06.787.203s.31.313.4.467c.15.257.212.468.233.542.01.026.653 1.552 1.657 2.54.616.605 1.01 1.223 1.082 1.912.055.537-.096 1.059-.38 1.572.637.121 1.294.187 1.967.187.657 0 1.298-.063 1.921-.178-.287-.517-.44-1.041-.384-1.581.07-.69.465-1.307 1.081-1.913 1.004-.987 1.647-2.513 1.657-2.539.021-.074.083-.285.233-.542.09-.154.208-.323.4-.467a1.08 1.08 0 0 1 .787-.203c.359.056.604.29.762.543s.247.55.265.874v.015c.225-.34.457-.67.683-.952.23-.286.432-.52.71-.694.257-.16.547-.284.84-.285a.97.97 0 0 1 .524.151c.228.143.373.388.43.625l.006.04a10.3 10.3 0 0 0 .534-3.273c0-5.731-4.678-10.378-10.449-10.378z"/>
-</svg>
-
-<!-- OpenAI (official logo PNG) -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" alt="OpenAI" style="height:40px; margin-right:12px;" />
-
-<!-- LLaMA (community logo PNG)
+<!-- Pandas -->
+<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" style="height:40px; margin-right:12px;" /_
 
 </div>
 
