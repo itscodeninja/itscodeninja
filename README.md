@@ -64,7 +64,6 @@
 </div>
 
 
-
 <div align="left" style="margin-top: 30px;">
   <h2>My Github Contributions</h2>
   <picture>
