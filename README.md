@@ -29,7 +29,39 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest" style="height: 60px; background: white; padding: 6px; border-radius: 8px;" />
   
-  <img
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/web3js/web3js-plain.svg" alt="Web3.js" style="height: 60px; background: white; padding: 6px; border-radius: 8px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original-wordmark.svg" alt="Netlify" style="height: 60px; background: white; padding: 6px; border-radius: 8px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" style="height: 60px; background: white; padding: 6px; border-radius: 8px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" style="height: 60px; background: white; padding: 6px; border-radius: 8px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="Postgres" style="height: 60px; background: white; padding: 6px; border-radius: 8px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="height: 60px; background: white; padding: 6px; border-radius: 8px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" style="height: 60px; background: white; padding: 6px; border-radius: 8px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original-wordmark.svg" alt="Socket.io" style="height: 60px; background: white; padding: 6px; border-radius: 8px;" />
+  
+  <img src="https://cdn.simpleicons.org/webrtc" alt="WebRTC" style="height: 60px; background: white; padding: 6px; border-radius: 8px;" />
+  
+  <img src="https://cdn.simpleicons.org/celery" alt="Celery" style="height: 60px; background: white; padding: 6px; border-radius: 8px;" />
+  
+  <img src="https://cdn.simpleicons.org/selenium" alt="Selenium" style="height: 60px; background: white; padding: 6px; border-radius: 8px;" />
+  
+  <img src="https://cdn.simpleicons.org/langchain" alt="LangChain" style="height: 60px; background: white; padding: 6px; border-radius: 8px;" />
+  
+  <img src="https://cdn.simpleicons.org/huggingface" alt="HuggingFace" style="height: 60px; background: white; padding: 6px; border-radius: 8px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" style="height: 60px; background: white; padding: 6px; border-radius: 8px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins" style="height: 60px; background: white; padding: 6px; border-radius: 8px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" style="height: 60px; background: white; padding: 6px; border-radius: 8px;" />
+
+</div>
 
 
 
