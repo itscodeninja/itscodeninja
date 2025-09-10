@@ -37,6 +37,35 @@
 <span style="display:inline-block; width:12px;"></span>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+<span style="display:inline-block; width:12px;"></span>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React logo" />
+<span style="display:inline-block; width:12px;"></span>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" height="40" alt="Jest logo" />
+<span style="display:inline-block; width:12px;"></span>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/web3js/web3js-plain.svg" height="40" alt="Web3.js logo" />
+<span style="display:inline-block; width:12px;"></span>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" height="40" alt="Netlify logo" />
+<span style="display:inline-block; width:12px;"></span>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python logo" />
+<span style="display:inline-block; width:12px;"></span>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI logo" />
+<span style="display:inline-block; width:12px;"></span>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
+<span style="display:inline-block; width:12px;"></span>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
+<span style="display:inline-block; width:12px;"></span>
+
+<img src="https://img.icons8.com/?size=40&id=kktvCbkDLbNb&format=png&color=000000" height="40" alt="Custom Icon" />
+
 
 </div>
 
