@@ -9,48 +9,67 @@
 <h2 align="left">I code with</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" style="margin-right:12px;" />
+  <style>
+  .tech-icon {
+    height: 40px;
+    margin-right: 12px;
+    vertical-align: middle;
+    background-color: white; /* White background for dark icons */
+    padding: 4px;
+    border-radius: 6px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  }
+  .tech-text {
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: 12px;
+    padding: 0 8px;
+    background: #fff;
+    border-radius: 6px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    color: #333;
+    user-select: none;
+  }
+</style>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React logo" style="margin-right:12px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript logo" class="tech-icon" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React logo" class="tech-icon" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest logo" class="tech-icon" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web3js/web3js-plain.svg" alt="Web3.js logo" class="tech-icon" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify logo" class="tech-icon" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python logo" class="tech-icon" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI logo" class="tech-icon" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL logo" class="tech-icon" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB logo" class="tech-icon" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" height="40" alt="Jest logo" style="margin-right:12px;" />
+<!-- Pandas icon from Simple Icons -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pandas.svg" alt="Pandas logo" class="tech-icon" style="background:white; padding:4px; border-radius:6px;" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/web3js/web3js-plain.svg" height="40" alt="Web3.js logo" style="margin-right:12px;" />
+<!-- Socket.IO icon -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/socket-dot-io.svg" alt="Socket.IO logo" class="tech-icon" style="background:white; padding:4px; border-radius:6px;" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" height="40" alt="Netlify logo" style="margin-right:12px;" />
+<!-- Celery icon -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/celery.svg" alt="Celery logo" class="tech-icon" style="background:white; padding:4px; border-radius:6px;" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python logo" style="margin-right:12px;" />
+<!-- HuggingFace icon -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/huggingface.svg" alt="HuggingFace logo" class="tech-icon" style="background:white; padding:4px; border-radius:6px;" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI logo" style="margin-right:12px;" />
+<!-- Pinecone icon -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pinecone.svg" alt="Pinecone logo" class="tech-icon" style="background:white; padding:4px; border-radius:6px;" />
 
-<!-- Pandas icon from simpleicons -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pandas.svg" height="40" alt="Pandas logo" style="margin-right:12px;" />
+<!-- Docker icon -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker logo" class="tech-icon" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" style="margin-right:12px;" />
+<!-- AWS icon -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS logo" class="tech-icon" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" style="margin-right:12px;" />
+<!-- Custom text placeholders for LangChain and QLoRA -->
+<span class="tech-text">LangChain</span>
+<span class="tech-text">QLoRA</span>
 
-<!-- Socket.IO icon from simpleicons -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/socket-dot-io.svg" height="40" alt="Socket.IO logo" style="margin-right:12px;" />
-
-<!-- Celery icon from simpleicons -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/celery.svg" height="40" alt="Celery logo" style="margin-right:12px;" />
-
-<!-- LangChain custom icon (no official icon, using text placeholder) -->
-<span style="display:inline-block; height:40px; line-height:40px; font-weight:bold; font-family:sans-serif; margin-right:12px;">LangChain</span>
-
-<!-- HuggingFace icon from simpleicons -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/huggingface.svg" height="40" alt="HuggingFace logo" style="margin-right:12px;" />
-
-<!-- Pinecone icon from simpleicons -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pinecone.svg" height="40" alt="Pinecone logo" style="margin-right:12px;" />
-
-<!-- QLoRA icon (no official icon, using text placeholder) -->
-<span style="display:inline-block; height:40px; line-height:40px; font-weight:bold; font-family:sans-serif; margin-right:12px;">QLoRA</span>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker logo" style="margin-right:12px;" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS logo" style="margin-right:12px;" />
 </div>
 
 <div align="left">
