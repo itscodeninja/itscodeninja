@@ -14,7 +14,8 @@
 </p>
 
 <h2 align="left">I code with</h2>
-<table>
+
+<table style="background:white; padding:10px; border-radius:12px;">
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" style="background:white; padding:8px; border-radius:10px; margin:5px;"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60" style="background:white; padding:8px; border-radius:10px; margin:5px;"></td>
@@ -23,6 +24,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original-wordmark.svg" alt="Netlify" width="60" height="60" style="background:white; padding:8px; border-radius:10px; margin:5px;"></td>
   </tr>
 </table>
+
 
 
 <div align="left" style="margin-top: 30px;">
