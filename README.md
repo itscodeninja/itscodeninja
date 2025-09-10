@@ -8,7 +8,7 @@
 
 <h2 align="left">I code with</h2>
 <img 
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Celery_logo.svg/120px-Celery_logo.svg.png" 
+  src="https://raw.githubusercontent.com/celery/celery/master/website/static/img/celery-logo.png" 
   alt="Celery logo" 
   style="height:40px; background:#fff; border-radius:5px; padding:4px;" 
 />
