@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋</h1>
 
 <p align="left">
   I turn coffee into code, bugs into features, and wild ideas into full-stack chaos. LLMs, Web3, and anything the internet dares me to tackle—breaking stuff, building smarter, and having way too much fun along the way.
@@ -6,7 +6,7 @@
 
 <h2 align="left">About me</h2> <p align="left"> ✨ Creating bugs since 2019<br /> 📚 I'm currently learning Flutter<br /> 🎯 Goals: Innovation, scalability, quality<br /> 🎲 Fun fact: I once built a fully functional arcade game from scratch, and I still have the high score! </p>
 
-<h2 align="left">I code with</h2>           
+<h2 align="left">Sweet Spots</h2>           
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; margin-top: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" />
