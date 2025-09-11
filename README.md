@@ -6,7 +6,7 @@
 
 <h2 align="left">About me</h2> <p align="left"> ✨ Creating bugs since 2019<br /> 📚 I'm currently learning Flutter<br /> 🎯 Goals: Innovation, scalability, quality<br /> 🎲 Fun fact: I once built a fully functional arcade game from scratch, and I still have the high score! </p>
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with</h2>           
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; margin-top: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" />
@@ -20,6 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" />
   <img src="https://docs.celeryq.dev/en/v5.5.3/_static/celery_512.png" alt="Celery" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" alt="Socket.io" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" alt="Socket.io" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="OpenCV" width="60" height="60" />
   <img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="LangChain" width="60" height="60" />
   <img src="https://img.icons8.com/?size=100&id=sop9ROXku5bb&format=png&color=000000" alt="HuggingFace" width="60" height="60" />
